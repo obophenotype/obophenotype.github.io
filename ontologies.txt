@@ -1,0 +1,10 @@
+mp
+hp
+wbphenotype
+xpo
+planp
+zp
+ddpheno
+fypo
+phipo
+apo

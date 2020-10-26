@@ -1,0 +1,37 @@
+date: '2020-10-26'
+namespace: planp
+results:
+  FP1 Open:
+    status: PASS
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    status: PASS
+  FP2 Common Format:
+    status: PASS
+  FP3 URIs:
+    status: PASS
+  FP4 Versioning:
+    status: PASS
+  FP5 Scope:
+    status: PASS
+  FP6 Textual Definitions:
+    comment: 27 missing definitions. See ROBOT Report for details.
+    status: WARN
+  FP7 Relations:
+    status: PASS
+  FP8 Documented:
+    status: PASS
+  FP9 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  ROBOT Report:
+    comment: 27 errors, 42 warnings, 42 info messages.
+    file: robot_report
+    status: ERROR
+summary:
+  comment: 2 errors
+  status: ERROR
+version: http://purl.obolibrary.org/obo/planp/releases/2020-03-28/planp.owl

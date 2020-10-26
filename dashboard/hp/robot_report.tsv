@@ -1,0 +1,200 @@
+Level	Rule Name	Subject	Property	Value
+WARN	annotation_whitespace	Episodic ataxia	IAO:0000115	"Periodic spells of incoordination and imbalance, that is, episodes of ataxia typically lasting from 10 minutes to several hours or days.
+"
+WARN	duplicate_exact_synonym	Autistic behavior	oboInOwl:hasExactSynonym	ASD
+WARN	duplicate_exact_synonym	Atrial septal defect	oboInOwl:hasExactSynonym	ASD
+WARN	missing_definition	All	IAO:0000115	
+WARN	missing_definition	Functional abnormality of male internal genitalia	IAO:0000115	
+WARN	missing_definition	Abnormality of the penis	IAO:0000115	
+WARN	missing_definition	Abnormality of the scrotum	IAO:0000115	
+WARN	missing_definition	Scrotal hypoplasia	IAO:0000115	
+WARN	missing_definition	Hypoplastic labia minora	IAO:0000115	
+WARN	missing_definition	Labial hypertrophy	IAO:0000115	
+WARN	missing_definition	Labial hypoplasia	IAO:0000115	
+WARN	missing_definition	Gonadal dysgenesis	IAO:0000115	
+WARN	missing_definition	Decreased fertility	IAO:0000115	
+WARN	missing_definition	Transverse vaginal septum	IAO:0000115	
+WARN	missing_definition	Polycystic ovaries	IAO:0000115	
+WARN	missing_definition	Movement abnormality of the tongue	IAO:0000115	
+WARN	missing_definition	Difficulty in tongue movements	IAO:0000115	
+WARN	missing_definition	Broad alveolar ridges	IAO:0000115	
+WARN	missing_definition	Absence of Stensen duct	IAO:0000115	
+WARN	missing_definition	Tongue nodules	IAO:0000115	
+WARN	missing_definition	Broad secondary alveolar ridge	IAO:0000115	
+WARN	missing_definition	Abnormality of taste sensation	IAO:0000115	
+WARN	missing_definition	Hypogeusia	IAO:0000115	
+WARN	missing_definition	Mastoiditis	IAO:0000115	
+WARN	missing_definition	Facial grimacing	IAO:0000115	
+WARN	missing_definition	Facial edema	IAO:0000115	
+WARN	missing_definition	Abnormality of facial adipose tissue	IAO:0000115	
+WARN	missing_definition	Abnormality of the orbital region	IAO:0000115	
+WARN	missing_definition	Bird-like facies	IAO:0000115	
+WARN	missing_definition	Abnormality of periauricular region	IAO:0000115	
+WARN	missing_definition	Slender nose	IAO:0000115	
+WARN	missing_definition	Abnormality of the nasal mucosa	IAO:0000115	
+WARN	missing_definition	Pear-shaped nose	IAO:0000115	
+WARN	missing_definition	Triangular nasal tip	IAO:0000115	
+WARN	missing_definition	Flared nostrils	IAO:0000115	
+WARN	missing_definition	Limited neck range of motion	IAO:0000115	
+WARN	missing_definition	Globe retraction and deviation on abduction	IAO:0000115	
+WARN	missing_definition	Corneal crystals	IAO:0000115	
+WARN	missing_definition	Cone/cone-rod dystrophy	IAO:0000115	
+WARN	missing_definition	Corneal scarring	IAO:0000115	
+WARN	missing_definition	Punctate corneal epithelial erosions	IAO:0000115	
+WARN	missing_definition	Periorbital wrinkles	IAO:0000115	
+WARN	missing_definition	Abnormal retinal artery morphology	IAO:0000115	
+WARN	missing_definition	Abnormal amplitude of pattern reversal visual evoked potentials	IAO:0000115	
+WARN	missing_definition	Eyelid apraxia	IAO:0000115	
+WARN	missing_definition	Palpebral fissure narrowing on adduction	IAO:0000115	
+WARN	missing_definition	Inappropriate behavior	IAO:0000115	
+WARN	missing_definition	Lack of spontaneous play	IAO:0000115	
+WARN	missing_definition	Psychotic episodes	IAO:0000115	
+WARN	missing_definition	Frontal lobe dementia	IAO:0000115	
+WARN	missing_definition	Impaired ability to form peer relationships	IAO:0000115	
+WARN	missing_definition	Inflexible adherence to routines or rituals	IAO:0000115	
+WARN	missing_definition	Irritability	IAO:0000115	
+WARN	missing_definition	Apathy	IAO:0000115	
+WARN	missing_definition	Self-mutilation	IAO:0000115	
+WARN	missing_definition	Inappropriate laughter	IAO:0000115	
+WARN	missing_definition	Paroxysmal bursts of laughter	IAO:0000115	
+WARN	missing_definition	Autism with high cognitive abilities	IAO:0000115	
+WARN	missing_definition	Lack of insight	IAO:0000115	
+WARN	missing_definition	Primary amenorrhea	IAO:0000115	
+WARN	missing_definition	Infertility	IAO:0000115	
+WARN	missing_definition	Cystic renal dysplasia	IAO:0000115	
+WARN	missing_definition	Glandular hypospadias	IAO:0000115	
+WARN	missing_definition	Abnormal external genitalia	IAO:0000115	
+WARN	missing_definition	Adrenocortical abnormality	IAO:0000115	
+WARN	missing_definition	Neonatal insulin-dependent diabetes mellitus	IAO:0000115	
+WARN	missing_definition	Euthyroid multinodular goiter	IAO:0000115	
+WARN	missing_definition	Decreased fertility in females	IAO:0000115	
+WARN	missing_definition	Secondary amenorrhea	IAO:0000115	
+WARN	missing_definition	Episodic hypertension	IAO:0000115	
+WARN	missing_definition	Insulin-resistant diabetes mellitus at puberty	IAO:0000115	
+WARN	missing_definition	Prominent sternum	IAO:0000115	
+WARN	missing_definition	Cervical ribs	IAO:0000115	
+WARN	missing_definition	Wide-cupped costochondral junctions	IAO:0000115	
+WARN	missing_definition	Elevated imprint of the transverse sinuses	IAO:0000115	
+WARN	missing_definition	Thinning and bulging of the posterior fossa bones	IAO:0000115	
+WARN	missing_definition	Posterior fossa cyst at the fourth ventricle	IAO:0000115	
+WARN	missing_definition	Short diaphyses	IAO:0000115	
+WARN	missing_definition	Dysostosis multiplex	IAO:0000115	
+WARN	missing_definition	Eczematoid dermatitis	IAO:0000115	
+WARN	missing_definition	Abnormality of subcutaneous fat tissue	IAO:0000115	
+WARN	missing_definition	Dermatological manifestations of systemic disorders	IAO:0000115	
+WARN	missing_definition	Accumulation of melanosomes in melanocytes	IAO:0000115	
+WARN	missing_definition	Skin dimple over apex of long bone angulation	IAO:0000115	
+WARN	missing_definition	Penetrating foot ulcers	IAO:0000115	
+WARN	missing_definition	Facial flushing after alcohol intake	IAO:0000115	
+WARN	missing_definition	Warfarin-induced skin necrosis	IAO:0000115	
+WARN	missing_definition	Atheroeruptive xanthoma	IAO:0000115	
+WARN	missing_definition	Multiple pterygia	IAO:0000115	
+WARN	missing_definition	High axial triradius	IAO:0000115	
+WARN	missing_definition	Prominent scalp veins	IAO:0000115	
+WARN	missing_definition	Vitiligo	IAO:0000115	
+WARN	missing_definition	Absent dorsal skin creases over affected joints	IAO:0000115	
+WARN	missing_definition	Plethora	IAO:0000115	
+WARN	missing_definition	Hypopigmented skin patches	IAO:0000115	
+WARN	missing_definition	Numerous nevi	IAO:0000115	
+WARN	missing_definition	Acrocyanosis	IAO:0000115	
+WARN	missing_definition	Angiokeratoma corporis diffusum	IAO:0000115	
+WARN	missing_definition	Atypical nevi in non-sun exposed areas	IAO:0000115	
+WARN	missing_definition	Glabellar hemangioma	IAO:0000115	
+WARN	missing_definition	Hypertensive retinopathy	IAO:0000115	
+WARN	missing_definition	Fundus atrophy	IAO:0000115	
+WARN	missing_definition	Visual field defect	IAO:0000115	
+WARN	missing_definition	Large central visual field defect	IAO:0000115	
+WARN	missing_definition	Chorioretinal dystrophy	IAO:0000115	
+WARN	missing_definition	Optic neuropathy	IAO:0000115	
+WARN	missing_definition	Choroideremia	IAO:0000115	
+WARN	missing_definition	Large hands	IAO:0000115	
+WARN	missing_definition	Ulnar deviation of the hand or of fingers of the hand	IAO:0000115	
+WARN	missing_definition	Wrist swelling	IAO:0000115	
+WARN	missing_definition	Capitate-hamate fusion	IAO:0000115	
+WARN	missing_definition	Cranial nerve compression	IAO:0000115	
+WARN	missing_definition	Chronic sensorineural polyneuropathy	IAO:0000115	
+WARN	missing_definition	Hypoglycemic coma	IAO:0000115	
+WARN	missing_definition	Olfactory lobe agenesis	IAO:0000115	
+WARN	missing_definition	Psychotic mentation	IAO:0000115	
+WARN	missing_definition	Congenital hip dislocation	IAO:0000115	
+WARN	missing_definition	Joint swelling	IAO:0000115	
+WARN	missing_definition	Hepatic failure	IAO:0000115	
+WARN	missing_definition	Intrahepatic biliary dysgenesis	IAO:0000115	
+WARN	missing_definition	Hepatocellular necrosis	IAO:0000115	
+WARN	missing_definition	Hepatic cysts	IAO:0000115	
+WARN	missing_definition	Abnormality of the musculature of the hand	IAO:0000115	
+WARN	missing_definition	Heterogeneous	IAO:0000115	
+WARN	missing_definition	Abnormality of the calf musculature	IAO:0000115	
+WARN	missing_definition	Abnormality of the shoulder girdle musculature	IAO:0000115	
+WARN	missing_definition	Abnormality of the musculature of the lower limbs	IAO:0000115	
+WARN	missing_definition	Metatarsal synostosis	IAO:0000115	
+WARN	missing_definition	Abnormality of the musculature of the thigh	IAO:0000115	
+WARN	missing_definition	Abnormality of the gluteal musculature	IAO:0000115	
+WARN	missing_definition	Abnormality of the hip-girdle musculature	IAO:0000115	
+WARN	missing_definition	Abnormality of the musculature of the upper limbs	IAO:0000115	
+WARN	missing_definition	Duplication of metatarsal bones	IAO:0000115	
+WARN	missing_definition	Autosomal dominant contiguous gene syndrome	IAO:0000115	
+WARN	missing_definition	Abnormality of the upper arm	IAO:0000115	
+WARN	missing_definition	Abnormality of the musculature of the upper arm	IAO:0000115	
+WARN	missing_definition	Amyotrophy involving the shoulder musculature	IAO:0000115	
+WARN	missing_definition	Contiguous gene syndrome	IAO:0000115	
+WARN	missing_definition	Abnormal morphology of the pelvis musculature	IAO:0000115	
+WARN	missing_definition	Sex-limited autosomal dominant	IAO:0000115	
+WARN	missing_definition	Aplasia/Hypoplasia of the musculature of the pelvis	IAO:0000115	
+WARN	missing_definition	Male-limited autosomal dominant	IAO:0000115	
+WARN	missing_definition	Bilateral ptosis	IAO:0000115	
+WARN	missing_definition	6 metacarpals	IAO:0000115	
+WARN	missing_definition	Metacarpal osteolysis	IAO:0000115	
+WARN	missing_definition	Growth abnormality	IAO:0000115	
+WARN	missing_definition	Severe failure to thrive	IAO:0000115	
+WARN	missing_definition	Failure to thrive in infancy	IAO:0000115	
+WARN	missing_definition	Abnormal ileum morphology	IAO:0000115	
+WARN	missing_definition	Mood changes	IAO:0000115	
+WARN	missing_definition	Pigmented micronodular adrenocortical disease	IAO:0000115	
+WARN	missing_definition	Subglottic stenosis	IAO:0000115	
+WARN	missing_definition	Abnormality of the voice	IAO:0000115	
+WARN	missing_definition	Weak cry	IAO:0000115	
+WARN	missing_definition	Hoarse cry	IAO:0000115	
+WARN	missing_definition	Loss of voice	IAO:0000115	
+WARN	missing_definition	Tarsal osteovalgus	IAO:0000115	
+WARN	missing_definition	Ankle swelling	IAO:0000115	
+WARN	missing_definition	Foot acroosteolysis	IAO:0000115	
+WARN	missing_definition	Bifid distal phalanx of toe	IAO:0000115	
+WARN	missing_definition	Distal foot symphalangism	IAO:0000115	
+WARN	missing_definition	Acroosteolysis of distal phalanges (feet)	IAO:0000115	
+WARN	missing_definition	Iron deficiency anemia	IAO:0000115	
+WARN	missing_definition	Normochromic anemia	IAO:0000115	
+WARN	missing_definition	Increased hemoglobin	IAO:0000115	
+WARN	missing_definition	Nonspherocytic hemolytic anemia	IAO:0000115	
+WARN	missing_definition	Persistent bleeding after trauma	IAO:0000115	
+WARN	missing_definition	Microangiopathic hemolytic anemia	IAO:0000115	
+WARN	missing_definition	Abnormality of metabolism/homeostasis	IAO:0000115	
+WARN	missing_definition	Dehydration	IAO:0000115	
+WARN	missing_definition	Hypokalemic alkalosis	IAO:0000115	
+WARN	missing_definition	Episodic ammonia intoxication	IAO:0000115	
+WARN	missing_definition	Nonketotic hypoglycemia	IAO:0000115	
+WARN	missing_definition	Hypokalemic metabolic alkalosis	IAO:0000115	
+WARN	missing_definition	Hypoplastic heart	IAO:0000115	
+WARN	missing_definition	Intolerance to protein	IAO:0000115	
+WARN	missing_definition	Hypertonic dehydration	IAO:0000115	
+WARN	missing_definition	Neonatal hypoglycemia	IAO:0000115	
+WARN	missing_definition	Large forehead	IAO:0000115	
+WARN	missing_definition	Narrow maxilla	IAO:0000115	
+WARN	missing_definition	Protein avoidance	IAO:0000115	
+WARN	missing_definition	Intractable diarrhea	IAO:0000115	
+WARN	missing_definition	Macroorchidism, postpubertal	IAO:0000115	
+WARN	missing_definition	Heavy supraorbital ridges	IAO:0000115	
+WARN	missing_definition	Curved linear dimple below the lower lip	IAO:0000115	
+WARN	missing_definition	Neuromuscular dysphagia	IAO:0000115	
+WARN	missing_definition	Progressive cerebellar ataxia	IAO:0000115	
+WARN	missing_definition	Pulmonary hypoplasia	IAO:0000115	
+WARN	missing_definition	Respiratory insufficiency	IAO:0000115	
+WARN	missing_definition	Emphysema	IAO:0000115	
+WARN	missing_definition	Pulmonary infiltrates	IAO:0000115	
+WARN	missing_definition	Arrhinencephaly	IAO:0000115	
+WARN	missing_definition	Ischemic stroke	IAO:0000115	
+WARN	missing_definition	Gait imbalance	IAO:0000115	
+WARN	missing_definition	Hypercalciuria	IAO:0000115	
+WARN	missing_definition	Neurological speech impairment	IAO:0000115	
+WARN	missing_definition	Scanning speech	IAO:0000115	
+WARN	missing_definition	Hypoglycemic seizures	IAO:0000115	
