@@ -1,4 +1,5 @@
-date: '2020-10-26'
+changed: true
+date: '2020-11-02'
 namespace: xpo
 results:
   FP1 Open:
@@ -28,9 +29,10 @@ results:
     comment: Missing usages
     status: ERROR
   ROBOT Report:
-    comment: 27 errors, 4 warnings, 10 info messages.
+    comment: 27 errors, 19965 warnings, 10 info messages.
     file: robot_report
     status: ERROR
+sha256_hash: 359b3fb4bc35378d89f4bf4713367849c427cf3971cde339490b329cbd449e07
 summary:
   comment: 3 errors
   status: ERROR

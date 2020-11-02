@@ -77,6 +77,313 @@ WARN	missing_obsolete_label	anaerobic growth rate	rdfs:label	anaerobic growth ra
 WARN	missing_obsolete_label	cell cycle arrest in S phase	rdfs:label	cell cycle arrest in S phase
 WARN	missing_obsolete_label	cell cycle arrest at the G2/M phase transition	rdfs:label	cell cycle arrest at the G2/M phase transition
 WARN	missing_obsolete_label	allergy induction	rdfs:label	allergy induction
+WARN	missing_xrefs	qualifier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mutant_type	oboInOwl:hasDbXref	
+WARN	missing_xrefs	misexpression	oboInOwl:hasDbXref	
+WARN	missing_xrefs	overexpression	oboInOwl:hasDbXref	
+WARN	missing_xrefs	activation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gain of function	oboInOwl:hasDbXref	
+WARN	missing_xrefs	null	oboInOwl:hasDbXref	
+WARN	missing_xrefs	repressible	oboInOwl:hasDbXref	
+WARN	missing_xrefs	reduction of function	oboInOwl:hasDbXref	
+WARN	missing_xrefs	conditional	oboInOwl:hasDbXref	
+WARN	missing_xrefs	unspecified	oboInOwl:hasDbXref	
+WARN	missing_xrefs	observable	oboInOwl:hasDbXref	
+WARN	missing_xrefs	experiment_type	oboInOwl:hasDbXref	
+WARN	missing_xrefs	classical genetics	oboInOwl:hasDbXref	
+WARN	missing_xrefs	competitive growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein activity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	development	oboInOwl:hasDbXref	
+WARN	missing_xrefs	budding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	axial budding pattern	oboInOwl:hasDbXref	
+WARN	missing_xrefs	bipolar budding pattern	oboInOwl:hasDbXref	
+WARN	missing_xrefs	filamentous growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	invasive growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pseudohyphal growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lifespan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sexual cycle	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mating response	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell fusion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mating efficiency	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nuclear fusion during mating	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pheromone production	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pheromone sensitivity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	shmoo formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	meiosis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	meiotic recombination	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	spore germination	oboInOwl:hasDbXref	
+WARN	missing_xrefs	spore wall formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sporulation efficiency	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sterile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	silencing	oboInOwl:hasDbXref	
+WARN	missing_xrefs	transposable element transposition	oboInOwl:hasDbXref	
+WARN	missing_xrefs	virulence	oboInOwl:hasDbXref	
+WARN	missing_xrefs	morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cellular morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell shape	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell wall morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cytoskeleton morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitochondrial morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	bud neck morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nuclear morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	peroxisomal morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	vacuolar morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	colony appearance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	colony color	oboInOwl:hasDbXref	
+WARN	missing_xrefs	colony shape	oboInOwl:hasDbXref	
+WARN	missing_xrefs	colony size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	liquid culture appearance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	flocculation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cellular processes	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cytokinesis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitotic cell cycle	oboInOwl:hasDbXref	
+WARN	missing_xrefs	intracellular transport	oboInOwl:hasDbXref	
+WARN	missing_xrefs	autophagy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	endocytosis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitochondrial transport	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nuclear transport	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein secretion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	vacuolar transport	oboInOwl:hasDbXref	
+WARN	missing_xrefs	stress resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	killer toxin resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	osmotic stress resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	oxidative stress resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	radiation resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	UV resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	X ray resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to chemicals	oboInOwl:hasDbXref	
+WARN	missing_xrefs	budding index	oboInOwl:hasDbXref	
+WARN	missing_xrefs	metal resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	starvation resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	temperature sensitive growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	thermotolerance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	metabolism and growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chemical compound accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nutrient utilization	oboInOwl:hasDbXref	
+WARN	missing_xrefs	auxotrophy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	utilization of carbon source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	utilization of nitrogen source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nutrient uptake	oboInOwl:hasDbXref	
+WARN	missing_xrefs	fermentative metabolism	oboInOwl:hasDbXref	
+WARN	missing_xrefs	respiratory metabolism	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitochondrial rho- mutation frequency	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitochondrial genome maintenance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	vegetative growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	survival rate in stationary phase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	competitive fitness	oboInOwl:hasDbXref	
+WARN	missing_xrefs	viability	oboInOwl:hasDbXref	
+WARN	missing_xrefs	inviable	oboInOwl:hasDbXref	
+WARN	missing_xrefs	viable	oboInOwl:hasDbXref	
+WARN	missing_xrefs	large-scale survey	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nuclear position	oboInOwl:hasDbXref	
+WARN	missing_xrefs	size of nucleus	oboInOwl:hasDbXref	
+WARN	missing_xrefs	actin cytoskeleton morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	recovery from pheromone-induced cell cycle arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pheromone-induced cell cycle arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	utilization of phosphorus source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nuclear import	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nuclear export	oboInOwl:hasDbXref	
+WARN	missing_xrefs	peroxisomal transport	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein transport	oboInOwl:hasDbXref	
+WARN	missing_xrefs	small molecule transport	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein/peptide modification	oboInOwl:hasDbXref	
+WARN	missing_xrefs	RNA localization	oboInOwl:hasDbXref	
+WARN	missing_xrefs	critical cell size at START (G1 cell-size checkpoint)	oboInOwl:hasDbXref	
+WARN	missing_xrefs	critical cell size at G2/M (cryptic G2/M cell size checkpoint)	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chromosome/plasmid maintenance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	telomere length	oboInOwl:hasDbXref	
+WARN	missing_xrefs	oxidative phosphorylation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	heat sensitivity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cold sensitivity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein/peptide accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	haploinsufficient	oboInOwl:hasDbXref	
+WARN	missing_xrefs	petite	oboInOwl:hasDbXref	
+WARN	missing_xrefs	petite-negative	oboInOwl:hasDbXref	
+WARN	missing_xrefs	apoptosis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	utilization of iron source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	culture appearance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	biofilm formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hyphal growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Affinity Capture-MS	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Affinity Capture-RNA	oboInOwl:hasDbXref	
+WARN	missing_xrefs	interactions	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Affinity Capture-Western	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Biochemical Activity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Co-crystal Structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Co-fractionation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Co-localization	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Co-purification	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Dosage Growth Defect	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Dosage Lethality	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Dosage Rescue	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Epistatic MiniArray Profile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	FRET	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Far Western	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Phenotypic Enhancement	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Phenotypic Suppression	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Protein-RNA	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Protein-peptide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Reconstituted Complex	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Synthetic Growth Defect	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Synthetic Lethality	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Synthetic Rescue	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Two-hybrid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	genetic interactions	oboInOwl:hasDbXref	
+WARN	missing_xrefs	physical interactions	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Affinity Chromatography	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Affinity Precipitation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Biochemical Assay	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Purified Complex	oboInOwl:hasDbXref	
+WARN	missing_xrefs	phenotype assays	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to enzymatic treatment	oboInOwl:hasDbXref	
+WARN	missing_xrefs	ionizing radiation resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gamma ray resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mating type switching	oboInOwl:hasDbXref	
+WARN	missing_xrefs	colony sectoring	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mutation frequency	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chitin deposition	oboInOwl:hasDbXref	
+WARN	missing_xrefs	budding pattern	oboInOwl:hasDbXref	
+WARN	missing_xrefs	acid pH resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	alkaline pH resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hypoosmotic stress resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hyperosmotic stress resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	ionic stress resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chromosome segregation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein/peptide distribution	oboInOwl:hasDbXref	
+WARN	missing_xrefs	anaerobic metabolism	oboInOwl:hasDbXref	
+WARN	missing_xrefs	bud morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	spindle morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	position of spindle pole body	oboInOwl:hasDbXref	
+WARN	missing_xrefs	toxin resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	fitness	oboInOwl:hasDbXref	
+WARN	missing_xrefs	essentiality	oboInOwl:hasDbXref	
+WARN	missing_xrefs	redox state	oboInOwl:hasDbXref	
+WARN	missing_xrefs	utilization of sulfur source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	necrotic cell death	oboInOwl:hasDbXref	
+WARN	missing_xrefs	septum formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chemical compound excretion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mating projection morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	RNA accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitotic recombination	oboInOwl:hasDbXref	
+WARN	missing_xrefs	subcellular morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	dominant negative	oboInOwl:hasDbXref	
+WARN	missing_xrefs	homozygous diploid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	heterozygous diploid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	homozygous diploid, large-scale survey	oboInOwl:hasDbXref	
+WARN	missing_xrefs	heterozygous diploid, large-scale survey	oboInOwl:hasDbXref	
+WARN	missing_xrefs	homozygous diploid, competitive growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	heterozygous diploid, competitive growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	systematic mutation set	oboInOwl:hasDbXref	
+WARN	missing_xrefs	homozygous diploid, systematic mutation set	oboInOwl:hasDbXref	
+WARN	missing_xrefs	heterozygous diploid, systematic mutation set	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pexophagy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitophagy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	freeze-thaw resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lipid particle morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Golgi morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased rate	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased rate	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased duration	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased duration	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed	oboInOwl:hasDbXref	
+WARN	missing_xrefs	arrested	oboInOwl:hasDbXref	
+WARN	missing_xrefs	premature	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal rate	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in G2 phase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in G1 phase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle passage through START	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression through the G2/M phase transition	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in M phase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle passage through the metaphase-anaphase transition	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in anaphase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in early anaphase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in mid anaphase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in late anaphase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in metaphase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in telophase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression in S phase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	entry into G0 (stationary phase)	oboInOwl:hasDbXref	
+WARN	missing_xrefs	exit from G0 (stationary phase)	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle progression through the G1/S phase transition	oboInOwl:hasDbXref	
+WARN	missing_xrefs	endoplasmic reticulum morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	RNA modification	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nucleolar morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	prion state	oboInOwl:hasDbXref	
+WARN	missing_xrefs	prion inheritance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	prion formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	prion loss	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal duration	oboInOwl:hasDbXref	
+WARN	missing_xrefs	haploid, classical genetics	oboInOwl:hasDbXref	
+WARN	missing_xrefs	haploid, competitive growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	haploid, large-scale survey	oboInOwl:hasDbXref	
+WARN	missing_xrefs	aneuploid, classical genetics	oboInOwl:hasDbXref	
+WARN	missing_xrefs	aneuploid, large-scale survey	oboInOwl:hasDbXref	
+WARN	missing_xrefs	aneuploid, competitive growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	haploid, systematic mutation set	oboInOwl:hasDbXref	
+WARN	missing_xrefs	aneuploid, systematic mutation set	oboInOwl:hasDbXref	
+WARN	missing_xrefs	interaction with host/environment	oboInOwl:hasDbXref	
+WARN	missing_xrefs	adhesion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	response to light	oboInOwl:hasDbXref	
+WARN	missing_xrefs	formation of anatomical structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	secondary metabolite production	oboInOwl:hasDbXref	
+WARN	missing_xrefs	utilization of zinc source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	utilization of magnesium source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	conidiation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	organelle distribution	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitochondrial distribution	oboInOwl:hasDbXref	
+WARN	missing_xrefs	peroxisomal distribution	oboInOwl:hasDbXref	
+WARN	missing_xrefs	vacuolar distribution	oboInOwl:hasDbXref	
+WARN	missing_xrefs	endoplasmic reticulum distribution	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Golgi distribution	oboInOwl:hasDbXref	
+WARN	missing_xrefs	vesicle distribution	oboInOwl:hasDbXref	
+WARN	missing_xrefs	endomembrane system morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	heterozygous diploid, classical genetics	oboInOwl:hasDbXref	
+WARN	missing_xrefs	homozygous diploid, classical genetics	oboInOwl:hasDbXref	
+WARN	missing_xrefs	conidial germination	oboInOwl:hasDbXref	
+WARN	missing_xrefs	anaerobic growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	fermentative growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	respiratory growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	growth in exponential phase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	growth in post-diauxic phase	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell death	oboInOwl:hasDbXref	
+WARN	missing_xrefs	autolysis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell lysis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	plasma membrane morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chronological lifespan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	replicative lifespan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Affinity Capture-Luminescence	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chlamydospore formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	germ tube formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	phenotypic switching	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Negative Genetic	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Positive Genetic	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to killing by host cells	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to phagocytosis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	desiccation resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hydrostatic pressure resistance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	unknown ploidy, classical genetics	oboInOwl:hasDbXref	
+WARN	missing_xrefs	induction of host response	oboInOwl:hasDbXref	
+WARN	missing_xrefs	haploproficient	oboInOwl:hasDbXref	
+WARN	missing_xrefs	capsule formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	peg formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	acquired thermotolerance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	innate thermotolerance	oboInOwl:hasDbXref	
+WARN	missing_xrefs	size of nucleolus	oboInOwl:hasDbXref	
+WARN	missing_xrefs	aneuploidy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	polyploidy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	micronucleophagy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	ribophagy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	reticulophagy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nucleophagy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	late nucleophagy	oboInOwl:hasDbXref	
 INFO	missing_superclass	qualifier	rdfs:subClassOf	
 INFO	missing_superclass	mutant_type	rdfs:subClassOf	
 INFO	missing_superclass	observable	rdfs:subClassOf	

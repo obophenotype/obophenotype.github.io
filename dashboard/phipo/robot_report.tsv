@@ -24,6 +24,801 @@ WARN	missing_definition	molecular function phenotype	IAO:0000115
 WARN	missing_definition	pathogen spore germination on host phenotype	IAO:0000115	
 WARN	invalid_xref	obsolete pathogen host interaction metabolic process phenotype	oboInOwl:hasDbXref	GO_0008152
 WARN	invalid_xref	metabolic process phenotype	oboInOwl:hasDbXref	GO_0008152
+WARN	missing_xrefs	pathogen host interaction phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	single species phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	tissue phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	unaffected pathogenicity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogenicity phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	functional pathogen effector absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	functional pathogen effector present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gain of pathogenicity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	loss of pathogenicity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	virulence phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	unaffected virulence	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased virulence	oboInOwl:hasDbXref	
+WARN	missing_xrefs	reduced virulence	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal single species phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal single species phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	inviable cell	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased sensitivity to chemical during growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased sensitivity to chemical	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased resistance to chemical	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen penetration across the barrier present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal formation of pathogen penetration structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen penetration across the barrier absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal formation of pathogen penetration structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen growth on host surface	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mutualism present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal hyphal colony morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mutualism phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal mutualism	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal mutualism	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal motility phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal motility phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal reproduction phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal reproduction phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal asexual reproduction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal sexual reproduction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal asexual reproduction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal sexual reproduction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased number of sexual spores	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of sexual spores	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased number of asexual spores	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of asexual spores	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed asexual sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited asexual sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed sexual sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited sexual sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal number of sexual spores	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal number of asexual spores	oboInOwl:hasDbXref	
+WARN	missing_xrefs	asexual spores absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sexual spores absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sexual spores present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	asexual spores present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	asexual spores increased in size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	asexual spores decreased in size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sexual spores increased in size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sexual spores decreased in size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	altered in pigment accumulation in sexual spore	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal sexual spore size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal sexual spore shape	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal number of sexual spores	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal asexual spore shape	oboInOwl:hasDbXref	
+WARN	missing_xrefs	altered in pigment accumulation in asexual spore	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal sexual sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal asexual sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal sexual sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal asexual sporulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal asexual spore size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal number of asexual spores	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased motility	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased motility	oboInOwl:hasDbXref	
+WARN	missing_xrefs	loss of motility	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased size of penetration structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased size of penetration structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased number of penetration structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of penetration structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed timing of penetration structure formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited timing of penetration structure formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished formation of pathogen penetration structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed pathogen penetration across the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased pathogen penetration across the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased pathogen penetration across the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed timing of pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited timing of pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal asexual reproductive structure development	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal endospore formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal population growth during dimorphic yeast-form	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited pathogen penetration across the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal asexual spore morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal asexual spore morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal asexual reproductive structure development	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal sexual spore morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen host protein-protein interaction phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	motility phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen penetration across barrier phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	reproductive phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	population growth phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal population growth during dimorphic yeast-form	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen host interaction binding phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chlorosis phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chlorosis absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chlorosis present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished filamentous growth on host surface	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen growth on host surface	oboInOwl:hasDbXref	
+WARN	missing_xrefs	yeast-form growth phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of effector-mediated host hypersensitive response during biotrophy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen growth on host surface phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed effector-mediated host hypersensitive response during biotrophy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	presence of effector-mediated host hypersensitive response during biotrophy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal aerial height of filamentous colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host chlorosis phenotype in presence of pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased aerial height of filamentous colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased aerial height of filamentous colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	loss of mutualism	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host chlorosis absent with pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host chlorosis present with pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen host interaction disease symptom phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of pathogen deoxynivalenol within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of pathogen deoxynivalenol within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen deoxynivalenol within host present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen deoxynivalenol within host absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen protein localization within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen protein and host protein colocalization within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	filamentous colony morphology phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased asexual spore germination frequency	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal tissue phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal tissue phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal hyphal colony morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	systemic phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen effector mediated modulation of host immune system process	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pigment phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal cellular pigment accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal cellular pigment accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased cellular pigment accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cellular pigment accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	reduced filament length	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal organism morphology phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal organism morphology phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sinusoidal filament	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal dissemination of asexual spore	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal dissemination of asexual spore	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal dissemination of sexual spore	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal dissemination of sexual spore	oboInOwl:hasDbXref	
+WARN	missing_xrefs	qualifier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cyproconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cyproconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen penetration into host present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen colonization of host phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen cell to cell migration within host phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen cell to cell migration within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen cell to cell migration within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased pathogen cell to cell migration within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased pathogen cell to cell migration within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen cell to cell migration within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited pathogen cell to cell migration within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed pathogen cell to cell migration within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen host interaction molecular function phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen growth present on host surface	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen growth absent on host surface	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal formation of pathogen penetration structure prior to entry into host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen growth within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen penetration into host absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased pathogen penetration into host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased pathogen penetration into host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed pathogen penetration into host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited pathogen penetration into host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absent pathogen growth within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen growth within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased pathogen growth within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed timing of pathogen growth within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited timing of pathogen growth within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased pathogen growth within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal formation of pathogen penetration structure when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of pathogen penetration structure when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased size of pathogen penetration structure when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased number of pathogen penetration structure when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased size of pathogen penetration structure when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed timing of pathogen penetration structure formation when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expedited timing of pathogen penetration structure formation when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to carboxin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to carboxin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to benomyl	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to diethofencarb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to carbendazim	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to thiophanate methyl	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to oxolinic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to naftifine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to terbinafine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to azoxystrobin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to iprodione	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to diethofencarb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to carbendazim	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to thiophanate methyl	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to oxolinic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to naftifine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to terbinafine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to azoxystrobin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to iprodione	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to benomyl	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal phialide morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal phialide morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	individual organism phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal cell phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal population growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nucleus absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	morphology phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased asexual spore germination frequency	oboInOwl:hasDbXref	
+WARN	missing_xrefs	molecular function phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased resistance to chemical during growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal population growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal carbohydrate binding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal carbohydrate binding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen chitin fragment binding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished carbohydrate binding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	altered carbohydrate binding specificity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased carbohydrate binding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased carbohydrate binding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	carbohydrate binding phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen chitin fragment binding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen reproductive phenotype within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen reproductive phenotype within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen reproductive phenotype within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen asexual reproduction within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen sexual reproduction within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of asexual pathogen spores within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen host interaction host lesion formation phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host cell death phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased number of asexual pathogen spores within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal number of asexual pathogen spores within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen asexual reproduction within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host programmed cell death phenotype induced by pathogen presence	oboInOwl:hasDbXref	
+WARN	missing_xrefs	subcellular component phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of pathogen necrotrophic effector-mediated host programmed cell death	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host necrotic cell death by pathogen induced hypersensitive response	oboInOwl:hasDbXref	
+WARN	missing_xrefs	presence of effector-independent host hypersensitive response	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of pathogen asexual spores within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen asexual sporulation within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen asexual sporulation within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal number of pathogen asexual spores within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal number of lipid droplets	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased size of lipid droplet	oboInOwl:hasDbXref	
+WARN	missing_xrefs	presence of pathogen necrotrophic effector-mediated host programmed cell death	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased size of lipid droplet	oboInOwl:hasDbXref	
+WARN	missing_xrefs	presence of pathogen-associated host lesions	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of pathogen-associated host lesions	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal toxin biosynthetic process	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal toxin biosynthetic process	oboInOwl:hasDbXref	
+WARN	missing_xrefs	population phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen host interaction tissue phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	inviable population	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lipid droplets present in increased numbers	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to piperacillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to florfenicol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to boscalid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to sordarin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ketoconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to carbenicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to enrofloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to prochloraz	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to virginiamycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to triadimefon	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cercosporamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to oxytetracycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to gramicidin D	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to actinomycin D	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to triclosan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to captan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to isoniazid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ciprofloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to benznidazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ethambutol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to teicoplanin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cycloheximide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to chlorothalonil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefotetan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to hygromycin B	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to triclabendazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ampicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to brassinin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to aztreonam	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to nisin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tetracycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to moxifloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to myriocin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to benzylpenicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to latrunculin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to clindamycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tylosin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to trovafloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to furazolidone	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to mecillinam	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefixime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tridemorph	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to mancozeb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to netilmicin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to sulfanilamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to leptomycin B	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to bleomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to gentamycin C1	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to pyrazinecarboxamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to micafungin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to strobilurin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to nikkomycin Z	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to nifurtimox	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to rotenone	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to sulfadimethoxine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to flucytosine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefuroxime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to antimycin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to brefeldin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to anidulafungin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to vinclozolin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to trimethoprim	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to mupirocin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to voriconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to alexidine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to fludioxonil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to oxacillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefpodoxime proxetil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to eflornithine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to polymyxin B1	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to pyrimethanil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to telithromycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to capreomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to amikacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ethionamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to doxycycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to meropenem	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to 4-aminosalicylic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to rifampicin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to flutriafol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to rifabutin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to nalidixic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to linezolid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to fusidic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tunicamycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to epoxyconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to D-cycloserine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to kanamycin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to verapamil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to streptomycin sulfate	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to farnesol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to fenpropidin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to gatifloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to erythromycin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to bifonazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to azithromycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to posaconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to prothionamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to copper	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to resveratrol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to colistin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to oligomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefepime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to hydrogen peroxide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tigecycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tricyclazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to closantel	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to diniconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to quinupristin-dalfopristin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to sparfloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefaclor	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to plumbagin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to imipenem	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to streptomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ticarcillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to fenhexamid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to abamectin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to miltefosine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to methicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ertapenem	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to neomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to rapamycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to fluconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to valinomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to salicylhydroxamic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to nicotinamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to sulbactam	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to amoxicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to gentamicin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ceftazidime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to sulfisoxazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to bacitracin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to difenoconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to spiroxamine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ofloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cyclosporine A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefotaxime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefoxitin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to fenarimol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to levofloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to spectinomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to pentamidine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to thiabendazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to chlortetracycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to itraconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to nitrofurantoin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to ceftriaxone	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to paromomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tebuconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to nystatin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to propiconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to minocycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tobramycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to caspofungin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to amphotericin B	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to chloramphenicol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to novobiocin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to emamectin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to penicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to carbapenems	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to daptomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to clarithromycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to copper sulphate	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to fosfomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to trichostatin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to doripenem	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to miconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to vancomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to aureobasidin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to lincomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to norfloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to tiamulin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to hymexazol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cephalexin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to clofazimine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to dicloxacillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to camptothecin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cefazolin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to mupirocin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefixime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to minocycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to polymyxin B1	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to fusidic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to brefeldin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ethionamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to rotenone	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to pyrazinecarboxamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to alexidine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to chloramphenicol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to clofazimine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to emamectin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to miltefosine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to sulfadimethoxine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to doripenem	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefaclor	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to plumbagin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefotaxime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to benznidazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cyclosporine A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to spectinomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to latrunculin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to oxacillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to difenoconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to triclosan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tridemorph	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to virginiamycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to neomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to voriconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to brassinin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to daptomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to bleomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to aztreonam	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to fludioxonil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ceftriaxone	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to leptomycin B	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to amikacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to resveratrol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to fenhexamid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefpodoxime proxetil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to myriocin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to gentamicin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to valinomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tigecycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to moxifloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to kanamycin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to methicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to pentamidine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to gentamycin C1	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to thiabendazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to gatifloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to mecillinam	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ampicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefotetan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to nystatin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to vinclozolin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to flucytosine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to trichostatin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to oxytetracycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to eflornithine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to streptomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to epoxyconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to trimethoprim	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to nifurtimox	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to clarithromycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to nisin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to sulfanilamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to oligomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to fosfomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to telithromycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to nitrofurantoin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to linezolid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to anidulafungin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to carbenicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tunicamycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to caspofungin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to fenarimol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ciprofloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to farnesol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to amphotericin B	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to vancomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ketoconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to strobilurin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to colistin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to trovafloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to triclabendazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to pyrimethanil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to florfenicol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to flutriafol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to teicoplanin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to norfloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to closantel	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to penicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to prothionamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to isoniazid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to salicylhydroxamic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to carbapenems	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to abamectin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to antimycin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cercosporamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tiamulin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tebuconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ticarcillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to nicotinamide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tricyclazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to paromomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ofloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to triadimefon	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to copper sulphate	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to imipenem	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to quinupristin-dalfopristin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to aureobasidin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to rifampicin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to rifabutin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to diniconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to actinomycin D	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to dicloxacillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefuroxime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to piperacillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to bacitracin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to propiconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to meropenem	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to chlorothalonil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to posaconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cephalexin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to 4-aminosalicylic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to captan	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to capreomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to gramicidin D	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to doxycycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to bifonazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to micafungin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ertapenem	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cycloheximide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ceftazidime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to camptothecin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to netilmicin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to benzylpenicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to hymexazol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to streptomycin sulfate	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to chlortetracycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to D-cycloserine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to miconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to erythromycin A	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to copper	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to rapamycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tobramycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to verapamil	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to furazolidone	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefoxitin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to fenpropidin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to itraconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to sulfisoxazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to lincomycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tetracycline	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to levofloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefazolin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to novobiocin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to amoxicillin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to ethambutol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to tylosin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to clindamycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to fluconazole	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to hygromycin B	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to boscalid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to cefepime	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to prochloraz	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to mancozeb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to spiroxamine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to enrofloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to nalidixic acid	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to sordarin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to azithromycin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to sparfloxacin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to nikkomycin Z	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to sulbactam	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal cell wall organization or biogenesis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced host reactive oxygen species present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced host reactive oxygen species absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell wall organization or biogenesis phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cell wall integrity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal germ tube	oboInOwl:hasDbXref	
+WARN	missing_xrefs	short germ tube	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to hydrogen peroxide	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cellular reactive oxygen species level	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased cellular reactive oxygen species level	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mutualism absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen entry into host phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen spore germination on host phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen growth within host phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen growth within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen penetration structure present when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen growth present within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished formation of pathogen penetration structure when near host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal asexual spore germination frequency	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal shape of hyphal colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal cellular melanin accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell morphology phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased filamentous growth on host surface	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal population growth during dimorphic hyphal-form	oboInOwl:hasDbXref	
+WARN	missing_xrefs	loss of virulence	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen penetration structure present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen penetration across the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absent pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	present pathogen growth after penetration of the barrier	oboInOwl:hasDbXref	
+WARN	missing_xrefs	autophagosomes present in decreased numbers	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished formation of autophagosomes	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished protein localization to autophagosome	oboInOwl:hasDbXref	
+WARN	missing_xrefs	autophagosome phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased lipid droplet degradation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to sodium dodecyl sulfate	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to sodium chloride	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensitive to dithiothreitol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal sexual spore morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal meiotic cell cycle	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased extent of pathogen-associated host lesions	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased extent of pathogen-associated host lesions	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of pathogen protein within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of host protein involved in a pathogen host interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased expression of a host defense related marker gene involved in pathogen interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of pathogen RNA within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen-associated host lesions	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen morphology phenotype during colonization of host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen morphology during colonization of host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen swollen terminal hyphae during cell to cell migration	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal organization of pathogen septin collar during cell to cell migration	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host morphology phenotype during pathogen invasion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal formation of extra-invasive hyphal membrane	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen morphology during colonization of host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal host morphology during pathogen invasion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal host morphology during pathogen invasion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen colonization of host morphology phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of host callose deposition induced by pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of host callose deposition induced by pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	long germ tube	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished protein localization to plasma membrane	oboInOwl:hasDbXref	
+WARN	missing_xrefs	altered cellular toxin level	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cellular toxin level	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of pyocyanin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pyocyanin absent from cell	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased cellular toxin level	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal cellular toxin level	oboInOwl:hasDbXref	
+WARN	missing_xrefs	level of pathogen toxin within host phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of pathogen toxin within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of pathogen toxin within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen toxin within host absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	colony shape phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal colony shape	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hyper-smooth colony morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hyper-rugose colony morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal size of colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased size of colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased size of colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal colony shape	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal rugose colony morphology	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of pyocyanin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal size of colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen host interaction organism level phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	survival of host organism with pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	death of host organism with pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host organism viability with pathogen phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cellular melanin accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of cellular melanin accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	altered pathogen pigment accumulation within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of melanin accumulation in pathogen asexual spore within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced callose deposition in host present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal hyphae formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased rate of hyphae formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased rate of germination tube formation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished protein secretion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished chitinase activity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased chitin level in asexual spore	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal localization	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal localization of chitin in cell	oboInOwl:hasDbXref	
+WARN	missing_xrefs	resistance to cell wall stress	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of pathogen RNA within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of pathogen asexual sporulation structures within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal number of pathogen asexual sporulation structures within host lesion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of host RNA involved in a pathogen interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gliotoxin absent from cell	oboInOwl:hasDbXref	
+WARN	missing_xrefs	presence of pathogen host protein-protein interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of pathogen host protein-protein interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal pathogen induced host pH	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced decrease in host pH	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced increase in host pH	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced pH decrease in host phagolysome	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of pathogen asexual sporulation structures within host lesion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased phosphopantetheinyl transferase activity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen modulation of host immune system signaling pathway phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host immune signaling pathway activated by pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal sexual reproductive structure development	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of sexual sporulation structures	oboInOwl:hasDbXref	
+WARN	missing_xrefs	viable population	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased population growth on erucic acid carbon source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased population growth on oleic acid carbon source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased population growth on palmitic acid carbon source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased population growth on myristic acid carbon source	oboInOwl:hasDbXref	
+WARN	missing_xrefs	effector-mediated suppression of host PAMP-triggered immunity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen suppression of host PAMP-triggered immunity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	stunted host growth during pathogen colonization	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased number of host side shoots during pathogen colonization	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased size of pathogen vacuoles during host colonization	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased cellular melanin accumulation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished development of asexual reproductive structure	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased number of hyphal septa	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of asexual reproductive structures	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased number of septum in asexual spore	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host PAMP-triggered immunity signaling activated by pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen protein localization to host chloroplast	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen protein localization to host chloroplast	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of host defense related marker gene RNA involved in a pathogen interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	effector-mediated suppression of host effector triggered immunity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased size of filamentous colony	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cellular metabolic process phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	unaltered reactive oxygen species production	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased reactive oxygen species production	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal spatial extent of reactive oxygen species production	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal host size during pathogen invasion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased host membrane blebbing during pathogen invasion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hyphal hyper branching	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased pathogen chitin fragment binding	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of pathogen reactive oxygen species production within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of pathogen reactive oxygen species production within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen tissue to tissue migration within host phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished pathogen tissue to tissue migration within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced host phenolic compound absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host reproductive phenotype induced by pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen host interaction reproductive phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal host reproductive structure development induced by pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abnormal host seed development induced by pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of host seed development induced by pathogen	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen modulation of host immune system process phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	presence of pathogen inhibition of host immune response protease	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen modulation of host process phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of host RNA involved in a pathogen interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal pathogen protein localization within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	effector-mediated immune suppression phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	infective ability phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	absence of effector-independent host hypersensitive response	oboInOwl:hasDbXref	
+WARN	missing_xrefs	normal level of deoxynivalenol	oboInOwl:hasDbXref	
+WARN	missing_xrefs	host resistance to pathogen phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	loss of functional host resistance gene	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gain of functional host resistance gene	oboInOwl:hasDbXref	
+WARN	missing_xrefs	functional host resistance gene present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	functional host resistance gene absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gene-for-gene interaction phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	compatible interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	incompatible interaction	oboInOwl:hasDbXref	
+WARN	missing_xrefs	presence of melanin accumulation in pathogen asexual spore within host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased level of pathogen induced host reactive oxygen species	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased level of pathogen induced host reactive oxygen species	oboInOwl:hasDbXref	
+WARN	missing_xrefs	abolished inhibition of pathogen chorismate mutase by host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	inhibition of pathogen chorismate mutase by host	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced host substance level phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	level of pathogen substance within host phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	outcome of interaction phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	disease absent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	disease present	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen effector phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	loss of functional pathogen effector	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gain of functional pathogen effector	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased extent of effector-mediated host hypersensitive response during biotrophy	oboInOwl:hasDbXref	
 INFO	lowercase_definition	obsolete effector of pathogenicity phenotype	IAO:0000115	(Required for successful infection of the host species). The ability of an organism to activate or suppress host defences to enable infectious disease. (Irrespective of the host genotype).
 INFO	lowercase_definition	obsolete effector of virulence phenotype	IAO:0000115	"(gene for gene relationships) or defined from the phenotype described in the published study.
 The pathogen has the ability to cause infectious disease dependent upon the gene for gene relationship between the pathogen and host genotype."

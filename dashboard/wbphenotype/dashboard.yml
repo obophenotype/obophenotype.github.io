@@ -1,4 +1,5 @@
-date: '2020-10-26'
+changed: true
+date: '2020-11-02'
 namespace: wbphenotype
 results:
   FP1 Open:
@@ -26,10 +27,9 @@ results:
   FP9 Plurality of Users:
     status: PASS
   ROBOT Report:
-    comment: '{0} info messages.'
-    file: robot_report
-    status: INFO
+    status: PASS
+sha256_hash: 728136123fc151cf62bf66a7947d477e8d92b8e19294bb4f1758f0716ec019e6
 summary:
-  comment: 1 info messages
-  status: INFO
+  comment: ''
+  status: PASS
 version: http://purl.obolibrary.org/obo/wbphenotype/releases/2020-09-21/wbphenotype.owl

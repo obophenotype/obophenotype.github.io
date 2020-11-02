@@ -1,4 +1,5 @@
-date: '2020-10-26'
+changed: true
+date: '2020-11-02'
 namespace: apo
 results:
   FP1 Open:
@@ -31,9 +32,10 @@ results:
     comment: Missing usages
     status: ERROR
   ROBOT Report:
-    comment: 9 errors, 69 warnings, 4 info messages.
+    comment: 9 errors, 376 warnings, 4 info messages.
     file: robot_report
     status: ERROR
+sha256_hash: 58f603a9a83c3994e03157cf52070b709e81e5458c923f701164c3a0afb25213
 summary:
   comment: 5 errors
   status: ERROR

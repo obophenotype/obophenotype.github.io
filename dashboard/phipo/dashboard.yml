@@ -1,4 +1,5 @@
-date: '2020-10-26'
+changed: true
+date: '2020-11-02'
 namespace: phipo
 results:
   FP1 Open:
@@ -30,9 +31,10 @@ results:
     comment: Missing usages
     status: ERROR
   ROBOT Report:
-    comment: 25 warnings, 3 info messages.
+    comment: 820 warnings, 3 info messages.
     file: robot_report
     status: WARN
+sha256_hash: 6232ccf1ddcf04018a1f17c3ec2a06a438503f968ca0ba89f5c3dcf9f853ff9a
 summary:
   comment: 1 errors
   status: ERROR
