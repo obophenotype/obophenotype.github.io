@@ -9,7 +9,7 @@ oboscore_weights:
 ontologies:
 - base_generated: true
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/apo.owl
   namespace: apo
   oboscore: '90.77'
@@ -62,7 +62,7 @@ ontologies:
   version: http://purl.obolibrary.org/obo/apo/releases/2020-03-10/apo.owl
 - base_generated: false
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/ddpheno/ddpheno-base.owl
   namespace: ddpheno
   oboscore: '93.00'
@@ -112,7 +112,7 @@ ontologies:
   version: http://purl.obolibrary.org/obo/ddpheno/releases/2020-06-19/ddpheno-base.owl
 - base_generated: false
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/dpo/dpo-base.owl
   namespace: dpo
   oboscore: '96.82'
@@ -163,7 +163,7 @@ ontologies:
   version: http://purl.obolibrary.org/obo/dpo/releases/2020-10-20/dpo-base.owl
 - base_generated: false
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/fypo/fypo-base.owl
   namespace: fypo
   oboscore: '94.00'
@@ -212,7 +212,7 @@ ontologies:
   version: http://purl.obolibrary.org/obo/fypo/releases/2020-11-05/fypo-base.owl
 - base_generated: false
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/hp/hp-base.owl
   namespace: hp
   oboscore: '93.50'
@@ -261,62 +261,9 @@ ontologies:
       INFO: 0
       WARN: 3
   version: http://purl.obolibrary.org/obo/hp/releases/2020-10-12/hp-base.owl
-- base_generated: true
-  changed: true
-  date: '2020-11-05'
-  mirror_from: http://purl.obolibrary.org/obo/mp.owl
-  namespace: mp
-  oboscore: '90.40'
-  results:
-    FP01 Open:
-      status: PASS
-    FP02 Common Format:
-      status: PASS
-    FP03 URIs:
-      status: PASS
-    FP04 Versioning:
-      comment: Version IRI 'http://purl.obolibrary.org/obo/mp/releases/2020-07-09'
-        is not in recommended format
-      status: WARN
-    FP05 Scope:
-      status: PASS
-    FP06 Textual Definitions:
-      comment: 177 missing definitions. See ROBOT Report for details.
-      status: WARN
-    FP07 Relations:
-      status: PASS
-    FP08 Documented:
-      status: PASS
-    FP09 Plurality of Users:
-      comment: Missing usages
-      status: ERROR
-    FP11 Locus of Authority:
-      status: PASS
-    FP12 Naming Conventions:
-      status: PASS
-    FP16 Maintenance:
-      comment: Version IRI does not have date information
-      status: INFO
-    ROBOT Report:
-      comment: 12721 warnings, 12968 info messages.
-      file: robot_report
-      results:
-        ERROR: 0
-        INFO: 12968
-        WARN: 12721
-      status: WARN
-  sha256_hash: 04c3619cb346418d466c454ea8777012a321a49e92e259bd89f69e42a8c1a14a
-  summary:
-    comment: 1 errors
-    status: ERROR
-    summary_count:
-      ERROR: 1
-      INFO: 1
-      WARN: 3
-  version: http://purl.obolibrary.org/obo/mp/releases/2020-07-09
 - base_generated: false
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/phipo/phipo-base.owl
   namespace: phipo
   oboscore: '92.89'
@@ -368,7 +315,7 @@ ontologies:
   version: http://purl.obolibrary.org/obo/phipo/releases/2020-10-22/phipo-base.owl
 - base_generated: false
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/planp/planp-base.owl
   namespace: planp
   oboscore: '89.15'
@@ -418,7 +365,7 @@ ontologies:
   version: http://purl.obolibrary.org/obo/planp/releases/2020-03-28/planp-base.owl
 - base_generated: false
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/wbphenotype/wbphenotype-base.owl
   namespace: wbphenotype
   oboscore: '94.48'
@@ -466,7 +413,7 @@ ontologies:
   version: http://purl.obolibrary.org/obo/wbphenotype/releases/2020-09-21/wbphenotype-base.owl
 - base_generated: false
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/xpo/xpo-base.owl
   namespace: xpo
   oboscore: '88.70'
@@ -516,7 +463,7 @@ ontologies:
   version: http://purl.obolibrary.org/obo/xpo/releases/2020-07-04/xpo-base.owl
 - base_generated: true
   changed: true
-  date: '2020-11-05'
+  date: '2020-11-06'
   mirror_from: http://purl.obolibrary.org/obo/zp.owl
   namespace: zp
   oboscore: '90.55'
