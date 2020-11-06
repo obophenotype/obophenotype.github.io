@@ -1,1 +1,200 @@
 Level	Rule Name	Subject	Property	Value
+WARN	missing_xrefs	chromosome instability	oboInOwl:hasDbXref	
+WARN	missing_xrefs	body posture variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	kinker	oboInOwl:hasDbXref	
+WARN	missing_xrefs	constitutive egg laying	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hyperactive egg laying	oboInOwl:hasDbXref	
+WARN	missing_xrefs	egg laying defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	bag of worms	oboInOwl:hasDbXref	
+WARN	missing_xrefs	anesthetic hypersensitive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	anesthetic resistant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	drug hypersensitive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	drug resistant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	dauer constitutive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	dauer defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cord commissures variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	positive chemotaxis defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	aldicarb hypersensitive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	aldicarb resistant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pharyngeal pumping increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pharyngeal pumping reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pharyngeal pumping irregular	oboInOwl:hasDbXref	
+WARN	missing_xrefs	squat	oboInOwl:hasDbXref	
+WARN	missing_xrefs	long	oboInOwl:hasDbXref	
+WARN	missing_xrefs	serotonin hypersensitive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	serotonin resistant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	blistered	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lipid depleted	oboInOwl:hasDbXref	
+WARN	missing_xrefs	organism metabolism processing variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	RNA processing variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	systemic RNAi variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	growth variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	slow growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sick	oboInOwl:hasDbXref	
+WARN	missing_xrefs	developmental timing variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	embryonic polarity variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	larval body morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	adult body morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	egg morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	exploded through vulva	oboInOwl:hasDbXref	
+WARN	missing_xrefs	life span phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	one cell arrest early emb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	osmotic integrity variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	slow embryonic development	oboInOwl:hasDbXref	
+WARN	missing_xrefs	general pace of development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	egg size defective early emb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	developmental delay postembryonic	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pace of P lineage defective early emb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gastrulation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hatching variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	postembryonic development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	embryonic lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	embryonic terminal arrest variable emb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	maternal effect lethal emb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	paralyzed arrested elongation two fold	oboInOwl:hasDbXref	
+WARN	missing_xrefs	larval lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	early larval arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	late larval arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	early larval lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	late larval lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	larval arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	adult lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	extended life span	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	terminal arrest variable	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sexually dimorphic lethality	oboInOwl:hasDbXref	
+WARN	missing_xrefs	X0 lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	XX lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	organism stress response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cellular oxidative stress response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	progeny variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	male tail morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	head morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	body morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	tail morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	genetic pathway variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cuticle attachment variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	epithelial attachment variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cuticle shedding defect	oboInOwl:hasDbXref	
+WARN	missing_xrefs	seam cells stacked	oboInOwl:hasDbXref	
+WARN	missing_xrefs	branched adult alae	oboInOwl:hasDbXref	
+WARN	missing_xrefs	no anterior pharynx	oboInOwl:hasDbXref	
+WARN	missing_xrefs	L1 arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	L2 arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	L3 arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	L4 arrest	oboInOwl:hasDbXref	
+WARN	missing_xrefs	swollen intestine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	shrunken intestine	oboInOwl:hasDbXref	
+WARN	missing_xrefs	body wall cell development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	body muscle displaced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	alpha amanitin resistant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	epidermis cuticle detached	oboInOwl:hasDbXref	
+WARN	missing_xrefs	epidermis muscle detached	oboInOwl:hasDbXref	
+WARN	missing_xrefs	intestinal cell proliferation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lineage variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	anus development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	M lineage variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cloacal development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	AB lineage variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pharyngeal intestinal valve development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	P lineages variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell UV response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	UV induced apoptosis increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	presynaptic vesicle cluster variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gut granule development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell polarity variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	oocyte meiotic maturation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	inhibition of oocyte maturation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	inhibition of ovulation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pattern of gene expression variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein expression variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	RNA expression variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mRNA expression variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	anterior pharynx variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mid larval lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	L1 lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	L2 lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein expression increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	protein expression reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	translation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	post translational processing variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	enzyme expression level reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	enzyme activity reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	enzyme activity increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	general pace of development defective early emb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	dauer recovery variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	temperature induced dauer formation increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	temperature induced dauer formation defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pheromone induced dauer formation enhanced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pheromone induced dauer formation defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pheromone induced dauer formation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expression lipogenic enzyme reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gene expression level reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gene expression level high	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mRNA levels increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mRNA levels reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lipid composition variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	stress induced lethality variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	stress induced arrest variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	stress induced lethality increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell stress response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	organism UV response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pathogen induced cell death increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	fertility phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	organism temperature response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	organism starvation response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	starvation induced dauer formation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	starvation induced dauer formation increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	starvation induced dauer formation defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	anterior pharynx extra cells	oboInOwl:hasDbXref	
+WARN	missing_xrefs	no cleavage furrow first division early emb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	body wall muscle contraction abnormal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	reduced brood size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell polarity reversed	oboInOwl:hasDbXref	
+WARN	missing_xrefs	body wall muscle contraction interval during defecation abnormal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	posterior body wall contraction defecation cycle variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cleavage furrow not discrete early emb	oboInOwl:hasDbXref	
+WARN	missing_xrefs	nuclear rotation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pale larva	oboInOwl:hasDbXref	
+WARN	missing_xrefs	clear larva	oboInOwl:hasDbXref	
+WARN	missing_xrefs	thin	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell fusion variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	seam cell fusion variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	precocious seam cell fusion	oboInOwl:hasDbXref	
+WARN	missing_xrefs	alae secretion variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	early exit cell cycle	oboInOwl:hasDbXref	
+WARN	missing_xrefs	precocious alae	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell proliferation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell proliferation increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell proliferation reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	basal lamina development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hypercontracted	oboInOwl:hasDbXref	
+WARN	missing_xrefs	satiety behavior variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	acetylcholinesterase reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell degeneration	oboInOwl:hasDbXref	
+WARN	missing_xrefs	neuron degeneration	oboInOwl:hasDbXref	
+WARN	missing_xrefs	axon morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	axon trajectory variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	apoptosis reduced	oboInOwl:hasDbXref	
+WARN	missing_xrefs	apoptosis increased	oboInOwl:hasDbXref	
+WARN	missing_xrefs	apoptosis fails to occur	oboInOwl:hasDbXref	
+WARN	missing_xrefs	apoptosis protracted	oboInOwl:hasDbXref	
+WARN	missing_xrefs	oogenesis variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	egg round	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gonad arm morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hypodermis disorganized	oboInOwl:hasDbXref	
+WARN	missing_xrefs	no dauer recovery	oboInOwl:hasDbXref	
+WARN	missing_xrefs	organism crowding response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	constitutive enzyme activity	oboInOwl:hasDbXref	
+WARN	missing_xrefs	dominant negative enzyme	oboInOwl:hasDbXref	
+WARN	missing_xrefs	first polar body position variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	distal tip cell migration variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	distal tip cell morphology variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell induction variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	male tail sensory ray development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pericellular component development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cuticle development variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	alae variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	odorant adaptation variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	anterior body contraction defecation cycle variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	expulsion variant	oboInOwl:hasDbXref	

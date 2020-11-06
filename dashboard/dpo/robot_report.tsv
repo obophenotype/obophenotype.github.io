@@ -1,0 +1,200 @@
+Level	Rule Name	Subject	Property	Value
+WARN	missing_definition	camcur	IAO:0000115	
+WARN	missing_definition	phenotypic class	IAO:0000115	
+WARN	missing_definition	population of Drosophila	IAO:0000115	
+WARN	missing_definition	population of cells	IAO:0000115	
+WARN	missing_definition	has_age	IAO:0000115	
+WARN	missing_obsolete_label	dosage compensation defective	rdfs:label	dosage compensation defective
+WARN	missing_xrefs	camcur	oboInOwl:hasDbXref	
+WARN	missing_xrefs	thermotaxis defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	male semi-fertile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	female semi-fertile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	modifier of variegation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	homeotic	oboInOwl:hasDbXref	
+WARN	missing_xrefs	dorsal/ventral axis specification defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	neurogenic phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	phenotypic class	oboInOwl:hasDbXref	
+WARN	missing_xrefs	wild-type	oboInOwl:hasDbXref	
+WARN	missing_xrefs	viable	oboInOwl:hasDbXref	
+WARN	missing_xrefs	partially lethal - majority live	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	partially lethal - majority die	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	visible	oboInOwl:hasDbXref	
+WARN	missing_xrefs	eye color defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	body color defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	size defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	small body	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cell number	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cell size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	large body	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased cell number	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased cell size	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sterile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	semi-sterile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	female sterile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	female semi-sterile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	female sterile germline-dependent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	female sterile soma-dependent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	male sterile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	male semi-sterile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	male sterile germline-dependent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	male sterile soma-dependent	oboInOwl:hasDbXref	
+WARN	missing_xrefs	fertile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	semi-fertile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	male fertile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	female fertile	oboInOwl:hasDbXref	
+WARN	missing_xrefs	grandchildless	oboInOwl:hasDbXref	
+WARN	missing_xrefs	enhancer of variegation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	non-enhancer of variegation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	suppressor of variegation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	non-suppressor of variegation	oboInOwl:hasDbXref	
+WARN	missing_xrefs	auxotroph	oboInOwl:hasDbXref	
+WARN	missing_xrefs	aging defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	short lived	oboInOwl:hasDbXref	
+WARN	missing_xrefs	long lived	oboInOwl:hasDbXref	
+WARN	missing_xrefs	behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gravitaxis defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	paralytic	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hypoactive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	bang sensitive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hyperactive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pain response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	circadian rhythm defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	locomotor rhythm defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	eclosion rhythm defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	learning defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	memory defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	courtship behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mating defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mating rhythm defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	song defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chemosensitive behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	smell perception defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	taste perception defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	tarsal response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	auditory perception defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	stress response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	osmotic stress response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	heat stress response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	visual behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	optomotor response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	phototaxis defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	locomotor behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	jumping defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	uncoordinated	oboInOwl:hasDbXref	
+WARN	missing_xrefs	flight defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	flightless	oboInOwl:hasDbXref	
+WARN	missing_xrefs	feeding behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	grooming behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	touch response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	photoperiod response variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	DNA repair defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell death defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased cell death	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cell death	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell growth defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell size defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell shape defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell polarity defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	meiotic cell cycle defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mitotic cell cycle defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cytokinesis defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	neurophysiology defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	neuroanatomy defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sex-determination defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	electrophoretic variant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chemical resistant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	chemical sensitive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	radiation resistant	oboInOwl:hasDbXref	
+WARN	missing_xrefs	radiation sensitive	oboInOwl:hasDbXref	
+WARN	missing_xrefs	Minute	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hyperplasia	oboInOwl:hasDbXref	
+WARN	missing_xrefs	tumorigenic	oboInOwl:hasDbXref	
+WARN	missing_xrefs	melanotic mass phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	melanotic necrosis	oboInOwl:hasDbXref	
+WARN	missing_xrefs	immune response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	planar polarity defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	developmental rate defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	wound healing defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	body size defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell adhesion defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hatching behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	eclosion defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell cycle defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	endomitotic cell cycle defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	circadian behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	proboscis extension reflex defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sensory perception defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	touch perception defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	temperature response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cold stress response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	axis specification defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	embryonic/larval segmentation phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	pair rule phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	even pair-rule phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	odd pair-rule phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	segment polarity phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	gap phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	sleep defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	diapause defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	reproductive diapause defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	starvation stress response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell number defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	jumpless	oboInOwl:hasDbXref	
+WARN	missing_xrefs	cell migration defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased cell growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	decreased cell growth	oboInOwl:hasDbXref	
+WARN	missing_xrefs	atrophy	oboInOwl:hasDbXref	
+WARN	missing_xrefs	jump response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	mating behavior defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	neoplasia	oboInOwl:hasDbXref	
+WARN	missing_xrefs	hypoplasia	oboInOwl:hasDbXref	
+WARN	missing_xrefs	oxidative stress response defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	terminal phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	delayed aging	oboInOwl:hasDbXref	
+WARN	missing_xrefs	premature aging	oboInOwl:hasDbXref	
+WARN	missing_xrefs	endocytosis defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	exocytosis defective	oboInOwl:hasDbXref	
+WARN	missing_xrefs	phenotype	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die before end of P-stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die before end of first instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die before end of larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die before end of second instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased mortality	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during P-stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during first instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during second instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during third instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during P-stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during first instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during second instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during third instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	partially lethal	oboInOwl:hasDbXref	
+WARN	missing_xrefs	increased mortality during development	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during P-stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during first instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during second instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during third instar larval stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during pharate adult stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die before end of prepupal stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die before end of pupal stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during pupal stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during prepupal stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die before end of embryonic stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during embryonic stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during pupal stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during prepupal stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during pharate adult stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during embryonic stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during pharate adult stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during pupal stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during prepupal stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during embryonic stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	lethal - all die during immature adult stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	majority die during immature adult stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	some die during immature adult stage	oboInOwl:hasDbXref	
+WARN	missing_xrefs	visual perception defective	oboInOwl:hasDbXref	

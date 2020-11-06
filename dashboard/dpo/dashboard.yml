@@ -1,6 +1,6 @@
 changed: true
 date: '2020-11-05'
-namespace: ddpheno
+namespace: dpo
 results:
   FP01 Open:
     status: PASS
@@ -13,15 +13,16 @@ results:
   FP05 Scope:
     status: PASS
   FP06 Textual Definitions:
-    comment: 4 missing definitions. See ROBOT Report for details.
+    comment: 5 missing definitions. See ROBOT Report for details.
     status: WARN
   FP07 Relations:
-    status: PASS
+    comment: 1 non-RO properties used.
+    file: fp7
+    status: INFO
   FP08 Documented:
     status: PASS
   FP09 Plurality of Users:
-    comment: Missing usages
-    status: ERROR
+    status: PASS
   FP11 Locus of Authority:
     status: PASS
   FP12 Naming Conventions:
@@ -29,19 +30,19 @@ results:
   FP16 Maintenance:
     status: PASS
   ROBOT Report:
-    comment: 985 warnings, 1 info messages.
+    comment: 208 warnings, 0 info messages.
     file: robot_report
     results:
       ERROR: 0
-      INFO: 1
-      WARN: 985
+      INFO: 0
+      WARN: 208
     status: WARN
-sha256_hash: 4a1fcbffea926e7f5ec511a24a074413949d90b63b8475e061469ca0f7bec24b
+sha256_hash: b1e9bcb654538e78a0d408d66bdaadd525c9238370c286f2119538af776b1b93
 summary:
-  comment: 1 errors
-  status: ERROR
+  comment: 2 warnings
+  status: WARN
   summary_count:
-    ERROR: 1
-    INFO: 0
+    ERROR: 0
+    INFO: 1
     WARN: 2
-version: http://purl.obolibrary.org/obo/ddpheno/releases/2020-06-19/ddpheno-base.owl
+version: http://purl.obolibrary.org/obo/dpo/releases/2020-10-20/dpo-base.owl

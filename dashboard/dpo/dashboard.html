@@ -1,14 +1,14 @@
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <title>planp Dashboard Report</title>
+    <title>dpo Dashboard Report</title>
 </head>
 <body>
     <div class="container">
         <div class="row" style="padding-top:30px;">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-                <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/planp.html">planp</a></h1>
-                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/planp/releases/2020-03-28/planp-base.owl</p>
+                <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/dpo.html">dpo</a></h1>
+                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/dpo/releases/2020-10-20/dpo-base.owl</p>
                 <p class="lead" style="margin-top:-15px;"><b>Date run</b>: 2020-11-05</p>
                 <p class="lead" style="margin-top:-15px;"><a href="dashboard.yml">View YAML</a></p>
                 
@@ -16,8 +16,8 @@
                     
                         
                     
-                    <div class="alert alert-danger">
-                        <center><h3>ERROR - 2 errors</h3></center>
+                    <div class="alert alert-warning">
+                        <center><h3>WARN - 2 warnings</h3></center>
                     </div>
                 
                 <table class="table">
@@ -142,7 +142,7 @@
                                 <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td>27 missing definitions. See ROBOT Report for details.</td>
+                                <td>5 missing definitions. See ROBOT Report for details.</td>
                             
                             
                                 <td></td>
@@ -158,14 +158,14 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-info" style="text-align:center;">
+                                <img src="../assets/info.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>1 non-RO properties used.</td>
                             
                             
-                                <td></td>
+                                <td><a href="fp7.html">View Report</a></td>
                             
                         </tr>
                     
@@ -198,11 +198,11 @@
                                 
                                 
                             
-                            <td class="table-danger" style="text-align:center;">
-                                <img src="../assets/x.svg" height="15px">
+                            <td class="table-success" style="text-align:center;">
+                                <img src="../assets/check.svg" height="15px">
                             </td>
                             
-                                <td>Missing usages</td>
+                                <td></td>
                             
                             
                                 <td></td>
@@ -278,11 +278,11 @@
                                 
                                 
                             
-                            <td class="table-danger" style="text-align:center;">
-                                <img src="../assets/x.svg" height="15px">
+                            <td class="table-warning" style="text-align:center;">
+                                <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td>27 errors, 715 warnings, 689 info messages.</td>
+                                <td>208 warnings, 0 info messages.</td>
                             
                             
                                 <td><a href="robot_report.html">View Report</a></td>
